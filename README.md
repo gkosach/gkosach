@@ -45,10 +45,10 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  Own product roadmaps & delivery   ┃
-┃  Design backend architecture       ┃
-┃  Build & scale engineering teams   ┃
-┃  Ship SaaS, fintech, Web3 products ┃
+┃  Own product roadmaps & delivery  ┃
+┃  Design backend architecture      ┃
+┃  Build & scale engineering teams  ┃
+┃  Ship SaaS, fintech, Web3 products┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
