@@ -15,10 +15,10 @@
 
 <div align="center">
 
-| 🚀 | 📈 | 🔐 | 👥 |
-|:---:|:---:|:---:|:---:|
-| **10+** Products | **3x** Delivery | **99.99%** SLA | **50+** Mentored |
-| MVP → Scale | 14d → 4d | Enterprise IAM | Senior/Lead |
+| 🚀 | 📈 | 🔐 | 👥 | 📚 |
+|:---:|:---:|:---:|:---:|:---:|
+| **10+** Products | **3x** Delivery | **99.99%** SLA | **50+** Mentored | **4000+** Students |
+| MVP → Scale | 14d → 4d | Enterprise IAM | Senior/Lead | Educated |
 
 </div>
 
