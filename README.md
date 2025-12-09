@@ -1,3 +1,6 @@
+[![drdev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drdev)](https://wakatime.com/@drdev)
+
+
 <p align="center"> <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"> <img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="WakaTime - Coding Activity" /> </a> </p>  <p align="center"> <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Codewars Badge" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=German+Kosach+%7C+Team+Lead+%7C+Backend+Expert+%7C+Blockchain+Engineer" alt="Typing SVG" /> </p> <h2 align="center">👋 Hi, I'm German Kosach</h2> <p align="center"><b>Technical Product Manager · Senior Backend & Fullstack Developer · Blockchain Integration Engineer · Mentor</b></p>
 🚀 About Me
 WES-certified Ph.D. turned elite manager & software engineer
