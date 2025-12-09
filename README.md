@@ -1,41 +1,187 @@
-<p align="center"> <a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"> <img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="WakaTime - Coding Activity" /> </a> </p>  <p align="center"> <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Codewars Badge" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=German+Kosach+%7C+Team+Lead+%7C+Backend+Expert+%7C+Blockchain+Engineer" alt="Typing SVG" /> </p> <h2 align="center">👋 Hi, I'm German Kosach</h2> <p align="center"><b>Technical Product Manager · Senior Backend & Fullstack Developer · Blockchain Integration Engineer · Mentor</b></p>
-🚀 About Me
-WES-certified Ph.D. turned elite manager & software engineer
+<h2 align="center">German Kosach · Technical Product Lead</h2>
+<p align="center"><b>Engineering Manager & Product Lead · SaaS, Web3, Fintech Architecture</b></p>
+<p align="center">
+Results-driven Technical Product Leader with 10+ years scaling B2B SaaS, IAM platforms, and Web3 solutions. 
+<br/>
+Bridging business strategy with engineering excellence to ship secure, high-impact products.
+</p>
 
-Senior Backend Team Lead @ Moscow’s top IT company
+---
 
-10+ years in tech: TypeScript, Node.js, PostgreSQL, Solidity, React, GraphQL, Python
+## 🎯 What I Do
 
-Blockchain Integration: Smart contracts, DeFi, Web3, Solidity
+| **Focus Area** | **What I Own** |
+|---|---|
+| **Product Leadership** | Own roadmaps, prioritization, and delivery for SaaS/fintech products. Speak fluently with C-level, customers, and engineering teams. |
+| **Backend Architecture** | Design scalable microservices, IAM platforms, and multi-tenant systems (NestJS, PostgreSQL, Redis, GraphQL, gRPC). |
+| **Team Building** | Build and mentor high-performing engineering teams. Shipped with 5–20 person teams across distributed, remote-first environments. |
+| **Web3 & Security** | Engineer Solidity smart contracts, design secure fintech backends, and deliver enterprise-grade integrations. |
+| **Metrics & Delivery** | Cut time-to-feature from 14 to 4 days. Improved SLA from 97.5% to 99.99%. Grew platforms 10x through strategy and execution. |
 
-Mentor & Team Builder: Built/led teams of 5–20, mentored 50+ devs to senior/lead level
+---
 
-Crypto Investor: $100K+ portfolio, active in DeFi/web3
+## 🚀 About Me
 
-Content Creator: TG channel (1,800+ followers), technical blog, public speaking
+- **WES-certified Ph.D.** in Maxillofacial Surgery, now full-time in engineering leadership and product.
+- **10+ years in backend & Web3** with hands-on coding, architecture design, and product strategy.
+- **Team Lead & Mentor** — Built teams, mentored 50+ engineers to senior/lead roles, and led cross-functional orgs of 20+ people.
+- **SaaS & Fintech Expert** — Owned IAM, API strategy, and secure multi-tenant backends for enterprise platforms.
+- **Comfortable everywhere** — C-suite strategy, customer discovery, technical design, and day-to-day engineering.
+- **Open to:** Technical Product Lead, Engineering Manager, CTO, or Backend Lead roles in SaaS, Web3, and fintech companies.
 
-Lifestyle: 9 months Russia 🇷🇺, 3 months Dubai ☀️
+---
 
-🏆 Highlights
-🚀 Launched 10+ products (MVP → scale, B2B & B2C)
+<div align="center">
+
+### ⌨️ Engineering Activity
+
+Even as a Technical Product Lead, I keep hands-on with backend architecture and integrations to make better product decisions.
+
+[![wakatime](https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg)](https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc)
+&nbsp;&nbsp;
+![Codewars Badge](https://www.codewars.com/users/Spacylion/badges/micro)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+</div>
 
-🏅 Mentored 50+ engineers to senior/lead roles
+---
 
-💰 $100K+ in crypto investments
+## 🏆 Highlights & Impact
 
-📈 TG channel: 1,800+ followers, growing technical community
+### Product & Engineering Achievements
 
-🏆 High-load systems: Built, scaled, and maintained mission-critical backend
+- **Shipped 10+ products** from MVP to production scale (B2B SaaS, B2C platforms, Web3 integrations, fintech backends).
+- **Built multi-service IAM platform** (40+ microservices) — cut onboarding time by **60%**, achieved **99.99% audit SLA**, and shipped GDPR compliance.
+- **Improved delivery velocity** — Reduced feature-to-production time from 14 to 4 days through architecture, tooling, and process improvements.
+- **Scaled user bases 10x** through product strategy, better onboarding flows, and analytics-driven improvements.
+- **Launched digital learning platforms** (13,000+ users) with multi-tenant architecture and role-based access controls.
+- **Multi-tenant fintech backend** — Designed granular, auditable access controls; shipped B2B API abstractions (gRPC/REST) that drove 30% DAU growth.
 
-💼 Portfolio & CV
-<table align="center"> <tr> <td align="center"><a href="https://app.rezi.ai/s/MJKmB4pSq8tAprLSNYR4"><b>CV</b></a></td> <td align="center"><a href="https://drdev.tech/"><b>Portfolio</b></a></td> </tr> </table>
-🛠️ Core Tech Stack
-<p align="center"> <img src="https://titrias.com/files/2022/04/typescript.png" alt="TS" width="40" /> <img src="https://moralis.io/wp-content/uploads/2022/08/Alchemy_Logo.jpg" alt="Alchemy SDK" width="60" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" alt="Next.js" width="80" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" /> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" /> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" /> </p>
-📊 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gkosach&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" /> </p>
-🌐 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> · <a href="https://github.com/gkosach">GitHub</a> · <a href="https://t.me/drdev">Telegram</a> · <a href="https://www.instagram.com/duckb.yte/">Instagram</a> · <a href="https://twitter.com/spacylion">Twitter</a> · <a href="https://t.me/duckbyte">TG Blog</a> </p> <h3 align="center">Ready to build legendary products? DM me. Let's make your team unstoppable.</h3> <p align="center"><b>German Kosach</b><br> Engineering · Leadership · Growth · Blockchain · Team building</p>
+### Leadership & Team Building
+
+- **Led cross-functional teams** (5–20 engineers, PMs, data analysts) across remote/hybrid, EMEA/EU environments.
+- **Mentored 50+ engineers** to senior roles, providing technical guidance, career development, and architectural mentorship.
+- **Built high-performing orgs** — Established hiring practices, onboarding programs, and culture focused on delivery and ownership.
+
+### Community & Thought Leadership
+
+- **1,800+ followers** in technical Telegram community — sharing insights on backend architecture, product strategy, and Web3.
+- **Technical speaker** on IAM, microservices, and fintech architecture.
+- **Open-source & knowledge sharing** — Active contributor to technical discussions and community building.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### Backend & Architecture
+- **Languages:** TypeScript, Node.js, Python, Solidity
+- **Frameworks & ORM:** NestJS, Express, GraphQL, gRPC, REST
+- **Databases & Caching:** PostgreSQL, Redis, MongoDB, Elasticsearch
+- **Infrastructure & DevOps:** Docker, Kubernetes, AWS, GCP, GitHub Actions, CI/CD
+- **Security & IAM:** Keycloak, OAuth2, SAML, JWT, scope-based permissions, RBAC/ABAC
+
+### Frontend & Full-Stack
+- **Frontend:** React, Next.js, TypeScript, CSS/SASS
+- **Web3:** Solidity, Ethereum, smart contracts, DeFi integrations, Alchemy SDK
+- **Design & Tools:** Figma, Git, Jira, GitHub, Notion
+
+### Leadership & Product
+- **Agile/Scrum** — Sprint planning, backlog management, stakeholder comms
+- **Product Strategy** — Discovery, prioritization, metrics (OKRs, KPIs), user research
+- **Team Management** — Hiring, mentorship, performance reviews, culture building
+- **API & Platform Strategy** — Multi-tenant design, scaling, security, compliance (GDPR, SOC2, PCI-DSS)
+
+---
+
+## 📚 Education & Certifications
+
+### Formal Education
+- **Ph.D.** in Maxillofacial Surgery — Pavlov First SPbSMU, 2023
+- **Agile Project Management** — Google, 2024
+- **Solana Rust Bootcamp** — Encode, 2024
+- **English for Effective Business Speaking** — HKUST, 2025
+- **Python for Biomedicine** — Skolkovo Foundation, 2023
+- **Responsive Web Design** — freeCodeCamp, 2023
+
+### Languages
+- **English** (Professional / Business-level)
+- **Russian** (Native)
+
+---
+
+## 💼 Professional Experience
+
+### Backend Team Lead & Product Owner
+**K2T · Moscow / Remote** | Jan 2025 – Present
+- Own identity & access strategy for enterprise SaaS platform (Keycloak, Redis, NestJS, PostgreSQL).
+- Led multi-service IAM platform (40+ services) — cut onboarding by 60%, achieved 99.99% SLA, GDPR compliance.
+- Shifted company architecture from RBAC to scope-based permissions — enterprise-grade security & auditability.
+- Partnered with senior stakeholders on secure, scalable API vision; doubled feature delivery velocity.
+- Maintained product backlog with focus on monetization and enterprise-readiness.
+
+### Technical Product Lead
+**Multiple SaaS & Web3 Companies** | 2023 – 2024
+- **CTO at Bothub** (AI/NLP SaaS) — Scaled backend to 10x user growth, shipped enterprise IAM, managed product roadmap.
+- **Lead Product Manager at Algora LTD** (Las Vegas/Remote) — Fintech backend & multi-tenant API design.
+- **Lead Product Manager & Team Lead at Telelabs** (Canada/Remote) — Built backend teams, shipped features, improved SLA from 97.5% to 99.99%.
+
+### Full Stack Developer & Product Owner
+**Duckbyte (Self-Employed) & Drdev** | 2021 – 2023
+- Built and scaled B2B SaaS (WhatsApp/AI) with tenant-level IAM — grew user base 10x.
+- Engineered Ethereum/Solidity smart contracts and Web3/NFT integrations.
+- Designed multi-tenant fintech backend with granular access controls.
+- Created metrics and feedback loops for authentication, monetization, and user growth.
+
+### Senior Laboratory Assistant (Tech Lead, Part-time)
+**Pavlov First SPbSMU** | Aug 2023 – Present
+- Led cross-functional teams on digital learning platform (13,000+ users).
+- Designed and delivered tech curriculum and analytics-driven improvements at scale.
+
+---
+
+## 🌍 Location & Preferences
+
+- **Based:** Saint Petersburg, Russia | Open to remote/hybrid roles in EMEA/EU
+- **Timezone:** MSK (UTC+3)
+- **Work Style:** Remote-first, async-friendly, distributed teams
+- **Employment:** B2B/EoR preferred for international roles
+
+---
+
+## 🎓 Why Me?
+
+✅ **Technical depth** — Can design, architect, and ship; not just manage from a dashboard.  
+✅ **Product thinking** — Understand business metrics, user needs, and roadmap prioritization.  
+✅ **Team builder** — Scale teams from 0 to 20+; mentor and develop senior talent.  
+✅ **Hands-on leadership** — Roll up sleeves on architecture, code review, and hard problems.  
+✅ **Track record** — Shipped 10+ products, improved delivery 3x, scaled platforms 10x, built SLA to 99.99%.  
+✅ **Charismatic communicator** — Speak fluently to engineers, PMs, C-suite, and customers.
+
+---
+
+## 📞 Let's Connect
+
+| Link | |
+|------|---|
+| **LinkedIn** | [german-kosach](https://www.linkedin.com/in/german-kosach/) |
+| **GitHub** | [gkosach](https://github.com/gkosach) |
+| **Telegram** | [@drdev](https://t.me/drdev) |
+| **Twitter/X** | [@spacylion](https://twitter.com/spacylion) |
+| **TG Channel** | [duckbyte](https://t.me/duckbyte) — Technical content on backend, product, Web3 |
+| **Portfolio** | [drdev.tech](https://drdev.tech/) |
+| **CV/Resume** | [Rezi](https://app.rezi.ai/s/MJKmB4pSq8tAprLSNYR4) |
+
+---
+
+<div align="center">
+
+### Ready to Ship Legendary Products?
+
+If you're building a world-class team or scaling a fintech/SaaS/Web3 platform, let's talk.  
+**DM me on LinkedIn, Telegram (@drdev), or email: german1kosach@gmail.com**
+
+*Engineering · Leadership · Product Strategy · Team Building · Web3 · High-Performance Systems*
+
+</div>
