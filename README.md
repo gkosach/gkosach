@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=80&lines=German+Kosach;Technical+Product+Lead" alt="Typing SVG" />
 
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Geogria](https://img.shields.io/badge/Georgia%2C_RU-Remote--First-FF1493?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Geogria](https://img.shields.io/badge/Georgia%2C_GE-Remote--First-FF1493?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![WakaTime](https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg)](https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc)
 
