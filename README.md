@@ -26,15 +26,13 @@ scratch: deal and shipment state machines, priority payout waterfalls, Incoterms
 
 
 ```mermaid
-```mermaid
 flowchart LR
-    W[Provider webhook] --> V{HMAC + idempotent claim}
-    V -->|forged| D[Drop permanently]
-    V -->|new| A[Independent verification<br/>via provider API]
-    A -->|mismatch| D
-    A -->|unreachable| R[Retry — never credit]
-    A -->|confirmed| T[One transaction:<br/>ledger + balance + outbox]
-    T --> O[Outbox worker]
+    A[Agent writes] --> R{Review}
+    R -->|transaction boundaries| F[Fix]
+    R -->|concurrency| F
+    R -->|idempotency| F
+    R -->|money precision| F
+    F --> S[Ship]
 ```
 
 ---
