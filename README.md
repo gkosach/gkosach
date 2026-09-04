@@ -26,19 +26,15 @@ scratch: deal and shipment state machines, priority payout waterfalls, Incoterms
 
 
 ```mermaid
-flowchart TB
-    subgraph Infrastructure
-        A[Adapters]
-    end
-    subgraph Application
-        U[Use-cases]
-    end
-    subgraph Domain
-        P[Ports<br/>+ domain types]
-    end
-    A -.imports.-> P
-    U -.imports.-> P
-    P --> N[imports nothing]
+```mermaid
+flowchart LR
+    W[Provider webhook] --> V{HMAC + idempotent claim}
+    V -->|forged| D[Drop permanently]
+    V -->|new| A[Independent verification<br/>via provider API]
+    A -->|mismatch| D
+    A -->|unreachable| R[Retry — never credit]
+    A -->|confirmed| T[One transaction:<br/>ledger + balance + outbox]
+    T --> O[Outbox worker]
 ```
 
 ---
