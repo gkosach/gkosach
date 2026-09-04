@@ -24,6 +24,23 @@ permission revocation on sanctions triggers.
 Currently designing a trade finance and multimodal logistics domain from
 scratch: deal and shipment state machines, priority payout waterfalls, Incoterms.
 
+
+```mermaid
+flowchart TB
+    subgraph Infrastructure
+        A[Adapters]
+    end
+    subgraph Application
+        U[Use-cases]
+    end
+    subgraph Domain
+        P[Ports<br/>+ domain types]
+    end
+    A -.imports.-> P
+    U -.imports.-> P
+    P --> N[imports nothing]
+```
+
 ---
 
 ## AI-driven development
