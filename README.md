@@ -4,7 +4,7 @@
 
 **Senior Backend Engineer** · Crypto payments infrastructure
 
-Remote · GMT+3
+Remote
 
 </div>
 
@@ -24,17 +24,6 @@ permission revocation on sanctions triggers.
 Currently designing a trade finance and multimodal logistics domain from
 scratch: deal and shipment state machines, priority payout waterfalls, Incoterms.
 
-
-```mermaid
-flowchart LR
-    A[Agent writes] --> R{Review}
-    R -->|transaction boundaries| F[Fix]
-    R -->|concurrency| F
-    R -->|idempotency| F
-    R -->|money precision| F
-    F --> S[Ship]
-```
-
 ---
 
 ## AI-driven development
@@ -47,6 +36,9 @@ and idempotency — that's where models systematically fail.
 
 Introduced mutation testing on critical paths after an agent-written suite
 passed while the code was wrong.
+
+Built [Verqen](https://github.com/gkosach/verqen) solo — an AI code reviewer with
+anchor-grounded findings and prompt injection defence. 18K LOC, 828 tests, in production.
 
 ---
 
