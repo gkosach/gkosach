@@ -37,8 +37,9 @@ and idempotency — that's where models systematically fail.
 Introduced mutation testing on critical paths after an agent-written suite
 passed while the code was wrong.
 
-Built [Verqen](https://github.com/orgs/Verqen/) solo — an AI code reviewer with
-anchor-grounded findings and prompt injection defence. 18K LOC, 828 tests, in production.
+Built [Verqen](https://app.verqen.dev) solo — automated code checks against a published,
+versioned rule catalogue, with anchor-grounded findings and prompt injection defence.
+18K LOC, 828 tests, in production.
 
 ---
 
